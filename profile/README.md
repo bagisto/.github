@@ -89,7 +89,7 @@ Make use of 100+ Bagisto pre built extensions from [Bagisto Extension Markeptlac
 
 ![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/community.png)
 
-Get Bagisto support on Facebook Group and [Forum](https://forum.sylius.com/)
+Get Bagisto support on [Facebook Groups](https://www.facebook.com/groups/bagisto) and [Forum](https://forums.bagisto.com/)
 Would like to help us build the most developer-friendly eCommerce platform? Start by reading our [Contributing Guide](https://github.com/bagisto/bagisto/blob/master/.github/CONTRIBUTING.md)!
 
 # License
