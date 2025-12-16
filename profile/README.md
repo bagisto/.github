@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-    ➡️ <a href="https://bagisto.com/en/">Website</a> | <a href="https://devdocs.bagisto.com/">Documentation</a> | <a href="https://webkul.com/blog/laravel-ecommerce-website/">Installation Guide</a> | <a href="https://forums.bagisto.com/">Forums</a> | <a href="https://www.facebook.com/groups/bagisto/">Community</a> ⬅️
+    ➡️ <a href="https://bagisto.com/en/">Website</a> | <a href="https://devdocs.bagisto.com/">Developer Documentation</a> | <a href="https://docs.bagisto.com/">User Documentation</a> | <a href="https://devdocs.bagisto.com/getting-started/installation.html#%F0%9F%9A%80-quick-installation-recommended">Installation Guide</a> | <a href="https://forums.bagisto.com/">Forums</a> | <a href="https://www.facebook.com/groups/bagisto/">Community</a> ⬅️
 </p>
 
 <p align="center" style="display: inline;">
@@ -65,12 +65,6 @@ You can browse through the Free **[Live Demo](https://demo.bagisto.com/)**
 # Headless Commerce
 
 The power of headless commerce now comes to Bagisto enabling you to experience seamless and easily scalable storefront performance. Backed by some of the hottest tech stacks Vue and React, Bagisto commerce can now be used to build powerful headless commerce solutions offering blazing fast speed and easy customisation powered by Vue Storefront and Next.js
-
-## Vue Storefront
-
-![enter image description here](https://raw.githubusercontent.com/bagisto/temp-media/master/vue.png)
-
-Vue Storefront 2 integration for Bagisto: [https://github.com/bagisto/vuestorefront](https://github.com/bagisto/vuestorefront)
 
 ## Next.js Commerce
 
